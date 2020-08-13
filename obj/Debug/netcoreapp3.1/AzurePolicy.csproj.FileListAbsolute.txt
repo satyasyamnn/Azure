@@ -1,0 +1,13 @@
+F:\LearningBase\Azure\AzurePolicy\bin\Debug\netcoreapp3.1\AzurePolicy.exe
+F:\LearningBase\Azure\AzurePolicy\bin\Debug\netcoreapp3.1\AzurePolicy.deps.json
+F:\LearningBase\Azure\AzurePolicy\bin\Debug\netcoreapp3.1\AzurePolicy.runtimeconfig.json
+F:\LearningBase\Azure\AzurePolicy\bin\Debug\netcoreapp3.1\AzurePolicy.runtimeconfig.dev.json
+F:\LearningBase\Azure\AzurePolicy\bin\Debug\netcoreapp3.1\AzurePolicy.dll
+F:\LearningBase\Azure\AzurePolicy\bin\Debug\netcoreapp3.1\AzurePolicy.pdb
+F:\LearningBase\Azure\AzurePolicy\obj\Debug\netcoreapp3.1\AzurePolicy.csprojAssemblyReference.cache
+F:\LearningBase\Azure\AzurePolicy\obj\Debug\netcoreapp3.1\AzurePolicy.AssemblyInfoInputs.cache
+F:\LearningBase\Azure\AzurePolicy\obj\Debug\netcoreapp3.1\AzurePolicy.AssemblyInfo.cs
+F:\LearningBase\Azure\AzurePolicy\obj\Debug\netcoreapp3.1\AzurePolicy.csproj.CoreCompileInputs.cache
+F:\LearningBase\Azure\AzurePolicy\obj\Debug\netcoreapp3.1\AzurePolicy.dll
+F:\LearningBase\Azure\AzurePolicy\obj\Debug\netcoreapp3.1\AzurePolicy.pdb
+F:\LearningBase\Azure\AzurePolicy\obj\Debug\netcoreapp3.1\AzurePolicy.genruntimeconfig.cache
