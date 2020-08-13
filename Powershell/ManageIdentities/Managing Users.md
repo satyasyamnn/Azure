@@ -10,11 +10,11 @@ Account in context need to have the following roles assigned
 
 Mandatory command to run before using New-AzureADUser is **Connect-AzureAD**. When a normal global admin account, example <personal@gmail.com> is used tenant information will be blank.
 
-[Connect Azure Ad Command](images/ConnectAzureAdCommand.JPG)
+[Connect Azure Ad Command](https://github.com/satyasyamnn/Azure/blob/master/Powershell/ManageIdentities/Images/ConnectAzureAdCommand.JPG)
 
 Post running **New-AzureADUser** with all necessary details you will see authentication error.
 
-[New Azure Ad User](images/NewAzureAdUserCreation.JPG)
+[New Azure Ad User](https://github.com/satyasyamnn/Azure/blob/master/Powershell/ManageIdentities/Images/NewAzureAdUserCreation.JPG)
 
 New-AzureADUser will work when tenant domain is mapped. Issues with tenant see this link [http://get-cmd.com/?p=4949].
 
