@@ -1,0 +1,12 @@
+# Login to Azure 
+az login
+
+# Create resource group 
+az group create --resource-group 'Az104v1' --location 'eastus'
+
+# create virtual network 
+az network vnet create --name 'vnet01-cli' --resource-group 'Az104v1' --location 'eastus' --address-prefixes '10.2.0.0/16' --subnet-name 'frontend' --subnet-prefixes '10.2.0.0/24'
+
+# add additional subnet 
+az network vnet subnet create --name 'backend' --address-prefixes '10.2.1.0/24' --vnet-name  'vnet01-cli' --resource-group 'Az104v1' 
+                                    

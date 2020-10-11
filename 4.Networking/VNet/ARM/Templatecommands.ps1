@@ -1,0 +1,1 @@
+New-AzResourceGroupDeployment -ResourceGroupName 'AZ104' -Name "VnetDeploment" -TemplateFile .\VNetCreation.json
